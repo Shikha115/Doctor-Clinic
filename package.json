@@ -1,0 +1,37 @@
+{
+  "name": "doctorclinic",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.6",
+    "bootstrap": "^4.3.1",
+    "check-error": "^1.0.2",
+    "del": "^3.0.0",
+    "fancybox": "^3.0.1",
+    "ftp": "^0.3.10",
+    "gsap": "^2.1.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.14.1",
+    "scrollreveal": "^4.0.5",
+    "swiper": "^4.5.0"
+  },
+  "devDependencies": {
+    "compress-images": "^1.9.5",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
